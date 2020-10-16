@@ -1,7 +1,6 @@
 # ShowerThoughts with *VUE*
 
-## This was for education only 
-## :see_no_evil: :hear_no_evil: :speak_no_evil:  
+## This was for education only :see_no_evil: :hear_no_evil: :speak_no_evil:  
 
 ### Used: 
 - [x] Vue;
