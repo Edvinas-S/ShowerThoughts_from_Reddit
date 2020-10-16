@@ -8,7 +8,7 @@
 - [x] [pure CSS](https://loading.io/css/);
 
 The app picture:\
-![Image of App](https://github.com/Edvinas-S/ShowerThoughts/public/screenshot.jpg)
+![Image of App](https://github.com/Edvinas-S/ShowerThoughts_from_Reddit/blob/master/public/screenshot.jpg)
 
 #### Project setup
 ```
